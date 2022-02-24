@@ -467,3 +467,15 @@
 .footer-items:first-child {
     font-weight: 600;
 }
+/* ----------- */
+.menu-form{
+    position: relative;
+}
+.nav-form{
+    position: absolute;
+    z-index: 99;
+}
+.nav-form li{
+    width: 100px;
+    font-size: 16;
+}
